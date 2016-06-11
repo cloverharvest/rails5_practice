@@ -1,5 +1,6 @@
-# README
-This is a code along of the Rails 5: The Tour.
+# RAILS 5:THE TOUR
+
+This is a practice/code along of the Rails 5: The Tour.
 
 This video can be found on http://rubyonrails.org/.
 
