@@ -1,4 +1,4 @@
-Rails 5 Practice
+###Rails 5 Practice
 
 This is a practice/code along of the Rails 5: The Tour.
 
