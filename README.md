@@ -1,24 +1,13 @@
 # README
+This is a code along of the Rails 5: The Tour.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This video can be found on http://rubyonrails.org/.
 
-Things you may want to cover:
+Great features of the new version of Rails, among others:
+* rails db:migrate, rails db: seed
+* Active Base - uses Web Sockets via channels
+* Mailer function
 
-* Ruby version
+Before starting on The Tour, please visit http://railsapps.github.io/updating-rails.html for steps to update your Rails version to Rails 5
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Twas fun! Looking forward to start using Rails 5 on my next project
